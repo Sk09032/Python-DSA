@@ -20,5 +20,12 @@ To run any code from this repo:
    ```bash
    git clone https://github.com/Sk09032/Python-DSA.git
 
-   ```bash
-   cd <your-repo-name>
+   
+2. Navigate to the project folder
+    ```bash
+    cd Python DSA
+
+3. Run a Python file:
+
+    ```bash
+    python filename.py
