@@ -10,3 +10,15 @@ I’m maintaining this repo as a personal learning log while practicing coding p
 - Organized by topics like arrays, strings, linked lists, trees, graphs, dynamic programming, etc.
 - Clean and beginner-friendly Python implementations.
 
+
+---
+
+## 🚀 Getting Started
+To run any code from this repo:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sk09032/Python-DSA.git
+
+   ```bash
+   cd <your-repo-name>
